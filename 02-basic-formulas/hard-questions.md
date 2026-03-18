@@ -14,5 +14,6 @@ Using only formulas — no manual calculation:
 4.Find the lowest single month sale
 5.Count how many monthly sales figures crossed 20000 — just count them manually for now and write the number in a cell with a label
 
-![Uploading excel 1.png…]()(https://github.com/user-attachments/assets/xxxxxx)
 
+
+<img width="1132" height="526" alt="excel 1" src="https://github.com/user-attachments/assets/3690dc0b-044d-40b2-9477-bbe6a3165c4f" />
