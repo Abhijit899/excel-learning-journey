@@ -58,3 +58,46 @@ Steps:
 <img width="915" height="369" alt="Screenshot 2026-03-19 120304" src="https://github.com/user-attachments/assets/43187281-8fc2-480e-a060-789516de72d8" />
 
 
+---
+
+
+## Question 3 — Icon Sets
+
+A company tracks monthly sales targets for 10 salespeople.
+- Arrow up → achieved target
+- Arrow sideways → within 10% of target
+- Arrow down → missed target by more than 10%
+
+Which Conditional Formatting option handles this?
+Write the exact steps to apply it.
+
+Use this data:
+| Salesperson | Sales Amount |
+|---|---|
+| Riya | 95000 |
+| Arjun | 48000 |
+| Sneha | 12000 |
+| Priya | 67000 |
+| Rohan | 31000 |
+| Amit | 88000 |
+| Pooja | 25000 |
+| Vikram | 72000 |
+| Neha | 15000 |
+| Rahul | 56000 |
+
+### My Answer:
+Applied Icon Sets → 3 Arrows Colored on Sales column.
+
+Excel automatically divided data into 3 groups:
+- Green arrow up → top performers (88000 and above)
+- Yellow arrow sideways → average performers (56000-87000)
+- Red arrow down → low performers (below 56000)
+
+Steps:
+1. Selected B2:B11 (sales amount column)
+2. Home → Conditional Formatting → Icon Sets
+3. Selected 3 Arrows Colored
+4. Excel automatically assigned icons based on value range
+
+
+<img width="483" height="665" alt="Screenshot 2026-03-19 124847" src="https://github.com/user-attachments/assets/abeedb6f-3f53-40df-8935-85bf60da0d69" />
