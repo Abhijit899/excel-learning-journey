@@ -31,3 +31,30 @@ Formatting. Top rule always has highest priority.
 You can change order in:
 Home → Conditional Formatting → Manage Rules
 Then use the up/down arrows to reorder.
+
+---
+
+## Question 2 — Entire Row Highlighting
+
+A teacher has marks of 50 students in 5 subjects.
+She wants the entire ROW of any student whose
+average is below 40 to turn red automatically.
+
+
+### My Answer:
+No student's average was below 40 in original data.
+Changed Arjun's marks to show the rule working.
+
+Formula used: =AVERAGE($B2:$E2)<40
+
+Steps:
+1. Selected range A2:E6
+2. New Rule → Use a formula
+3. Entered =AVERAGE($B2:$E2)<40
+4. Set fill color to Red
+5. Entire row turns red when average drops below 40
+
+
+<img width="915" height="369" alt="Screenshot 2026-03-19 120304" src="https://github.com/user-attachments/assets/43187281-8fc2-480e-a060-789516de72d8" />
+
+
