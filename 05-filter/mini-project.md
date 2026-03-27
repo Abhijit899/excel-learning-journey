@@ -11,9 +11,9 @@
 | Vikram      | West   | Fridge  | Electronics | 4          | 35000      | 140000      | Jun   | Completed |
 | Meena       | South  | Mobile  | Electronics | 9          | 15000      | 135000      | Jul   | Completed |
 
-Task 1 Total Sales > 150000
-Task 2 Status = Pending
-Task 3 Product = Laptop
+Task 1 Total Sales > 150000,
+Task 2 Status = Pending,
+Task 3 Product = Laptop,
 
 Task 1 Answer : 
 <img width="1239" height="424" alt="Screenshot 2026-03-27 202134" src="https://github.com/user-attachments/assets/b94607a9-553e-482f-9b43-942c505af05e" />
