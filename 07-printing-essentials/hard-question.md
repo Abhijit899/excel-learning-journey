@@ -35,11 +35,19 @@ Tasks (Printing Essentials)
 
 Task Answer :
 Q1.<img width="1164" height="734" alt="Screenshot 2026-03-31 103639" src="https://github.com/user-attachments/assets/fa5fe0e5-03b3-440f-aaef-69ec5859d0cd" />
+
 Q2. <img width="1239" height="899" alt="Screenshot 2026-03-31 113605" src="https://github.com/user-attachments/assets/dc9f6c6c-5d4c-4d7e-998a-5094155ddfb9" />
+
 Q3.<img width="1169" height="803" alt="Screenshot 2026-03-31 113925" src="https://github.com/user-attachments/assets/8471a21f-f6e5-48a7-8b44-7e01ceaab9a8" />
+
 Q4. <img width="716" height="786" alt="Screenshot 2026-03-31 114723" src="https://github.com/user-attachments/assets/ebde2428-b3aa-4d23-a487-7d4f793e27cd" />
+
 Q5. <img width="1112" height="891" alt="Screenshot 2026-03-31 115821" src="https://github.com/user-attachments/assets/149ba71d-341a-4a68-a2f3-a216af16392a" />
+
 Q6.<img width="798" height="884" alt="Screenshot 2026-03-31 121015" src="https://github.com/user-attachments/assets/7d76ce99-5c3e-426f-8791-9ba8fc5ef828" />
+
 Q7.<img width="1646" height="796" alt="Screenshot 2026-03-31 115908" src="https://github.com/user-attachments/assets/48ba9701-37a1-4841-a6c0-48662bd427bb" />
+
 Q8.<img width="897" height="791" alt="Screenshot 2026-03-31 120706" src="https://github.com/user-attachments/assets/15d06f45-1f4e-4956-9fb3-0faba754695e" />
+
 Q9.<img width="1672" height="856" alt="Screenshot 2026-03-31 121419" src="https://github.com/user-attachments/assets/47b0b4de-31da-4f29-ac87-7565b12085c2" />
