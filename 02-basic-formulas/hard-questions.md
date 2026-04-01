@@ -62,29 +62,3 @@ Answers : <img width="1376" height="751" alt="Screenshot 2026-04-01 174343" src=
 i have uploaded all the questions answer in one screenshot that you can see 
 
 
-Analyst Thinking Questions (Hard Question)
-
-Data Analyst Questions
-Q1.Which product generates maximum revenue?
-Q2.Which region sells most units?
-Q3.Average profit per order?
-
-Answers :
-
-Q1. Laptop 
-Q2. East 
-Q3. 201970
-
-
-Business Analyst Questions
-
-Q1.Should company increase Laptop sales?
-Q2.Which region needs cost reduction?
-Q3.Which salesperson should get bonus?
-
-
-Answers:
-
-Q1.yes because laptop has largest profit among all the products 
-Q2. East 
-Q3. Riya 
