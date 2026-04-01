@@ -128,5 +128,9 @@ Order ID	Month	Salesperson	Region	Product	Category	Units Sold	Unit Price	Total R
 1096	December	Amit Kumar	West	Shoes	Clothing	16	2500
 
 Answer :
+Q1.Total Revenue = Units Sold × Unit Price
+Ans.
+<img width="1018" height="2357" alt="Picture2" src="https://github.com/user-attachments/assets/aaa5fee6-0132-449d-87dc-c26c8cad448e" />
+
 
    
