@@ -75,26 +75,35 @@ Answers :
 Q1.Total column — sum of all 6 months per person 
 Ans.  
 <img width="789" height="746" alt="Screenshot 2026-04-01 200427" src="https://github.com/user-attachments/assets/7abc41be-1654-48a2-bbcd-8e047c701d34" />
+
 Q2. Average Monthly column per person
 Ans. 
 <img width="685" height="742" alt="Screenshot 2026-04-01 200924" src="https://github.com/user-attachments/assets/6357af7a-a1e6-4bbb-8e00-86119a02c337" />
+
 Q3. Best Month — highest month per person
 Ans. 
 <img width="817" height="692" alt="Screenshot 2026-04-01 201056" src="https://github.com/user-attachments/assets/43c2fa91-cb41-41fa-8ce3-0b8ca343fbd7" />
+
 Q4.Worst Month — lowest month per person
 Ans.
 <img width="774" height="678" alt="Screenshot 2026-04-01 201207" src="https://github.com/user-attachments/assets/cc10eec5-6a90-4f3f-9630-a6087057e19b" />
+
 Q5.Below the table find:
    a. Highest single sale across entire table
   Ans. <img width="1008" height="724" alt="Screenshot 2026-04-01 202736" src="https://github.com/user-attachments/assets/27c98767-cdcc-46de-8bd1-9d67807d6390" />
+  
    b. Lowest single sale across entire table
   Ans. <img width="1227" height="705" alt="Screenshot 2026-04-01 202839" src="https://github.com/user-attachments/assets/5dfd9eb4-ba4f-47eb-b556-301df941b646" />
+  
     c. Total company revenue all 6 months
   Ans. <img width="1471" height="767" alt="Screenshot 2026-04-01 203704" src="https://github.com/user-attachments/assets/c15c2f1f-4dbe-4851-a827-72d260a07030" />
+  
     d. d. Average monthly revenue of entire company
   Ans.<img width="1609" height="684" alt="Screenshot 2026-04-01 204412" src="https://github.com/user-attachments/assets/9b07d5ab-c3a6-40bc-a280-4d3c2e43ef2b" />
+  
     e. Count monthly figures that crossed 50000
   Ans.<img width="1706" height="703" alt="Screenshot 2026-04-01 204908" src="https://github.com/user-attachments/assets/1b407f97-f1ac-48ba-9ea5-b49f55b7a57c" />
+  
     f.Count monthly figures below 25000
   Ans. <img width="1749" height="739" alt="Screenshot 2026-04-01 205145" src="https://github.com/user-attachments/assets/e0a4c5c0-220f-455c-acb6-73314426d28d" />
 
