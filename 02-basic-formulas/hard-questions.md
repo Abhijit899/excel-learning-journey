@@ -1,4 +1,5 @@
-<img width="1471" height="767" alt="Screenshot 2026-04-01 203704" src="https://github.com/user-attachments/assets/2c61b99c-ee89-4823-967a-9eb82e9ae767" /><img width="817" height="692" alt="Screenshot 2026-04-01 201056" src="https://github.com/user-attachments/assets/440c2a2b-36af-4641-8e5c-90c3d2a67386" />Product        Jan Sales    Feb Sales    Mar Sales
+Q1.Sales data analysis
+             Jan Sales    Feb Sales    Mar Sales
 Laptop           45000        52000        48000
 Mobile           32000        38000        41000
 Tablet           18000        22000        19000
@@ -19,7 +20,8 @@ Using only formulas — no manual calculation:
 <img width="1132" height="526" alt="excel 1" src="https://github.com/user-attachments/assets/3690dc0b-044d-40b2-9477-bbe6a3165c4f" />
 
 ---
-Sales Analysis
+
+Q2.Sales Analysis
 
 A regional sales manager wants complete analysis
 of his team's performance across 6 months.
