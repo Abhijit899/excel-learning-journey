@@ -141,4 +141,10 @@ Ans.<img width="571" height="1369" alt="Picture 6" src="https://github.com/user-
 Ans. <img width="571" height="1369" alt="Picture 7" src="https://github.com/user-attachments/assets/2457a5bf-aecd-44ef-9f3b-c1564d3856fd" />
 
 3. Multi-level sort: First by Region (A to Z), then by Sales Amount (Largest to Smallest)
-Ans. 
+Ans. <img width="571" height="1369" alt="Picture 8" src="https://github.com/user-attachments/assets/086bfae6-4615-462b-8a0b-db9773d2a572" />
+
+4. Multi-level sort: First by Product (A to Z), then by Month (A to Z), then by Sales (Largest to Smallest)
+Ans. <img width="571" height="1369" alt="Picture 9" src="https://github.com/user-attachments/assets/3895cea0-f6bf-4f60-bc6a-a708263b881f" />
+
+5. Add a column "Rank" manually (1 to 55) before sorting so you can restore original order — then sort by Sales descending and verify Rank column is still intact
+Ans. <img width="641" height="1369" alt="Picture 12" src="https://github.com/user-attachments/assets/707a0f41-625e-466b-a15c-0b80d8f5eca5" />
