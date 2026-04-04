@@ -152,3 +152,4 @@ Ans. <img width="571" height="1369" alt="Picture 9" src="https://github.com/user
 5. Add a column "Rank" manually (1 to 55) before sorting so you can restore original order — then sort by Sales descending and verify Rank column is still intact
    
 Ans. <img width="641" height="1369" alt="Picture 12" src="https://github.com/user-attachments/assets/707a0f41-625e-466b-a15c-0b80d8f5eca5" />
+
