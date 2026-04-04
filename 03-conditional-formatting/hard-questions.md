@@ -101,3 +101,37 @@ Steps:
 
 
 <img width="483" height="665" alt="Screenshot 2026-03-19 124847" src="https://github.com/user-attachments/assets/abeedb6f-3f53-40df-8935-85bf60da0d69" />
+
+
+---
+
+
+Hard Q1 — Vendor Invoice Data 55 rows
+
+Apply Conditional Formatting on this data:
+
+1. Highlight Invoice Amount > ₹80,000 → Red fill
+2. Highlight Invoice Amount < ₹30,000 → Green fill
+3. Highlight Payment Status = "Pending" → Yellow fill
+4. Apply Data Bars on the Invoice Amount column
+5. Use Top 10% rule on Invoice Amount — what color does Excel apply by default?
+
+Answers:
+
+1. Highlight Invoice Amount > ₹80,000 → Red fill
+Ans. <img width="701" height="1344" alt="Picture1" src="https://github.com/user-attachments/assets/104094b1-ae25-4e63-87de-971e0e0183cd" />
+
+2. Highlight Invoice Amount < ₹30,000 → Green fill
+Ans. <img width="701" height="1345" alt="Picture 4" src="https://github.com/user-attachments/assets/a4318f76-6ffc-4145-8846-b96ea7a358d8" />
+
+3. Highlight Payment Status = "Pending" → Yellow fill
+Ans. <img width="701" height="1345" alt="Picture 5" src="https://github.com/user-attachments/assets/19945f5e-fdac-4248-a935-e9ef267a4af1" />
+
+4.  Apply Data Bars on the Invoice Amount column
+Ans. <img width="701" height="1345" alt="Picture 6" src="https://github.com/user-attachments/assets/b1e01bc2-f8c7-43c6-933d-3f494af0366a" />
+
+5. Use Top 10% rule on Invoice Amount — what color does Excel apply by default?
+Ans.<img width="701" height="1345" alt="Picture 7" src="https://github.com/user-attachments/assets/75fd022b-817a-42cd-8d15-889abb05e0c4" />
+
+
+
