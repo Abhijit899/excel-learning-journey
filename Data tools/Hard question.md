@@ -88,3 +88,96 @@ Ans.
 5. Use Remove Duplicates on Vendor Name column — how many additional duplicates found?
 Ans.
 <img width="669" height="1331" alt="Picture 5" src="https://github.com/user-attachments/assets/ea979e86-ecb3-4842-81c2-6681967dc6e8" />
+
+
+
+---
+
+
+Hard Q2 — Sales What-If Analysis 55 rows
+
+Use this sales data for What-If Analysis:
+
+1. Add a new column "Commission Amount" = Sales Amount × 8%
+2. Add "Net Sales" = Sales Amount − Commission Amount
+3. Goal Seek: In a separate cell, write =SUM of all Net Sales. Use Goal Seek to find what single Sales Amount value (for Rep R201) would make Total Net Sales exactly ₹40,00,000. Set cell = Total Net Sales formula, To value = 4000000, By changing cell = R201 sales amount
+4. Data Table: Create a one-variable data table showing Net Sales for R201 at these commission rates: 5%, 6%, 7%, 8%, 9%, 10%, 11%, 12%
+5. After Goal Seek — press Ctrl+Z to restore original value
+
+
+QUESTION DATA :
+
+Rep ID	Rep Name	Region	Product	Month	Sales Amount (₹)	Units Sold
+R201	Amit Shah	North	Laptop	January	82000	5
+R202	Priya Nair	South	Mobile	February	61000	8
+R203	Rajan Mehta	East	Chair	March	90000	12
+R204	Sneha Joshi	West	Table	April	45000	15
+R205	Karan Patil	North	Shirt	May	77000	20
+R206	Divya Rao	South	Shoes	June	95000	25
+R207	Mohit Kumar	East	Fridge	July	53000	30
+R208	Ritika Singh	West	Wardrobe	August	88000	10
+R209	Suresh Pillai	North	Laptop	September	40000	18
+R210	Pooja Menon	South	Mobile	October	72000	22
+R211	Arun Verma	East	Chair	November	67000	5
+R212	Meena Iyer	West	Table	December	84000	8
+R213	Tarun Gupta	North	Shirt	January	59000	12
+R214	Swati Desai	South	Shoes	February	91000	15
+R215	Nikhil Bose	East	Fridge	March	76000	20
+R216	Leena Shah	West	Wardrobe	April	48000	25
+R217	Deepak Nair	North	Laptop	May	83000	30
+R218	Anita Rao	South	Mobile	June	69000	10
+R219	Rahul Joshi	East	Chair	July	93000	18
+R220	Kavita Patil	West	Table	August	55000	22
+R221	Amit Shah	North	Shirt	September	71000	5
+R222	Priya Nair	South	Shoes	October	86000	8
+R223	Rajan Mehta	East	Fridge	November	49000	12
+R224	Sneha Joshi	West	Wardrobe	December	92000	15
+R225	Karan Patil	North	Laptop	January	63000	20
+R226	Divya Rao	South	Mobile	February	57000	25
+R227	Mohit Kumar	East	Chair	March	80000	30
+R228	Ritika Singh	West	Table	April	74000	10
+R229	Suresh Pillai	North	Shirt	May	44000	18
+R230	Pooja Menon	South	Shoes	June	98000	22
+R231	Arun Verma	East	Fridge	July	66000	5
+R232	Meena Iyer	West	Wardrobe	August	51000	8
+R233	Tarun Gupta	North	Laptop	September	87000	12
+R234	Swati Desai	South	Mobile	October	75000	15
+R235	Nikhil Bose	East	Chair	November	42000	20
+R236	Leena Shah	West	Table	December	96000	25
+R237	Deepak Nair	North	Shirt	January	58000	30
+R238	Anita Rao	South	Shoes	February	64000	10
+R239	Rahul Joshi	East	Fridge	March	79000	18
+R240	Kavita Patil	West	Wardrobe	April	89000	22
+R241	Amit Shah	North	Laptop	May	46000	5
+R242	Priya Nair	South	Mobile	June	85000	8
+R243	Rajan Mehta	East	Chair	July	70000	12
+R244	Sneha Joshi	West	Table	August	53000	15
+R245	Karan Patil	North	Shirt	September	94000	20
+R246	Divya Rao	South	Shoes	October	68000	25
+R247	Mohit Kumar	East	Fridge	November	47000	30
+R248	Ritika Singh	West	Wardrobe	December	81000	10
+R249	Suresh Pillai	North	Laptop	January	73000	18
+R250	Pooja Menon	South	Mobile	February	60000	22
+R251	Arun Verma	East	Chair	March	88000	5
+R252	Meena Iyer	West	Table	April	77000	8
+R253	Tarun Gupta	North	Shirt	May	50000	12
+R254	Swati Desai	South	Shoes	June	91000	15
+R255	Nikhil Bose	East	Fridge	July	65000	20
+
+
+Answer :
+
+1. Add a new column "Commission Amount" = Sales Amount × 8%
+Ans.
+<img width="754" height="1331" alt="Picture 6" src="https://github.com/user-attachments/assets/838e592a-39b3-4bd6-b2c8-7b667bab5bfa" />
+
+2. Add "Net Sales" = Sales Amount − Commission Amount
+Ans.
+<img width="754" height="1331" alt="Picture 6" src="https://github.com/user-attachments/assets/9d5ade32-6271-4ce7-befc-eb7c05c32505" />
+
+3. Goal Seek: In a separate cell, write =SUM of all Net Sales. Use Goal Seek to find what single Sales Amount value (for Rep R201) would make Total Net Sales exactly ₹40,00,000. Set cell = Total Net Sales formula, To value = 4000000, By changing cell = R201 sales amount
+Ans.
+<img width="890" height="1331" alt="Picture 7" src="https://github.com/user-attachments/assets/0746cbe4-2da8-4704-9474-8a8a0b3e025e" />
+
+4. Data Table: Create a one-variable data table showing Net Sales for R201 at these commission rates: 5%, 6%, 7%, 8%, 9%, 10%, 11%, 12%
+Ans.
