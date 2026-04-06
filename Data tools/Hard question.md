@@ -179,5 +179,4 @@ Ans.
 Ans.
 <img width="890" height="1331" alt="Picture 7" src="https://github.com/user-attachments/assets/0746cbe4-2da8-4704-9474-8a8a0b3e025e" />
 
-4. Data Table: Create a one-variable data table showing Net Sales for R201 at these commission rates: 5%, 6%, 7%, 8%, 9%, 10%, 11%, 12%
-Ans.
+
