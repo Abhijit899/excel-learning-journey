@@ -79,6 +79,7 @@ ANSWERS :
 1. Paste data in Excel
 
 Ans.
+<img width="1244" height="800" alt="Screenshot 2026-04-10 050003" src="https://github.com/user-attachments/assets/553af8c9-69e9-410f-a6ad-edf8b678c049" />
 
 
 2.Unlock only the Payment Status column (column G) — all other columns should be locked
@@ -86,3 +87,37 @@ Ans.
    Select column G → Format Cells → Protection tab → uncheck Locked
 
 Ans. 
+<img width="1244" height="800" alt="Screenshot 2026-04-10 050003" src="https://github.com/user-attachments/assets/975b38dc-4ef6-45b2-845f-22cdd545f0ca" />
+
+3. Protect the sheet with password: vendor123
+   Review tab → Protect Sheet → enter password → allow only "Select unlocked cells"
+   
+Ans.
+<img width="1244" height="800" alt="Screenshot 2026-04-10 050003" src="https://github.com/user-attachments/assets/e90e6822-746c-41a7-8443-6b911ebdb088" />
+
+4. Try editing a locked cell — confirm Excel shows an error message
+
+Ans.
+<img width="1451" height="753" alt="Screenshot 2026-04-10 050256" src="https://github.com/user-attachments/assets/7fd9ea4e-a77f-448a-a24f-5484b5d64005" />
+
+5. Try editing Payment Status column — confirm it allows editing
+
+Ans. 
+<img width="1244" height="800" alt="Screenshot 2026-04-10 050003" src="https://github.com/user-attachments/assets/0d444794-5d32-44cf-a047-43bfe5b5aa12" />
+
+6. Add a new column H "Remarks" — type "Follow Up" for all Overdue rows manually
+
+Ans. 
+<img width="1524" height="747" alt="Screenshot 2026-04-10 052410" src="https://github.com/user-attachments/assets/82f1aa32-3eab-4b75-aba9-fbcbf6a48d36" />
+
+7. Unprotect sheet → Review → Unprotect Sheet → enter password vendor123
+Ans.
+
+<img width="1524" height="747" alt="Screenshot 2026-04-10 052410" src="https://github.com/user-attachments/assets/3ef86740-10b9-4e46-9f3e-c9c25ba1e789" />
+
+8. Protect the entire Workbook — Review → Protect Workbook → password: work123
+   Verify: right click sheet tab — Insert/Delete/Rename options should be greyed out
+
+Ans. 
+
+<img width="1910" height="825" alt="Screenshot 2026-04-10 053044" src="https://github.com/user-attachments/assets/9eafb883-d638-4c9d-bf78-d2a1239d911b" />
