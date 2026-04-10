@@ -158,3 +158,40 @@ Ans.
 
 <img width="1417" height="783" alt="Screenshot 2026-04-10 055742" src="https://github.com/user-attachments/assets/b1b51f6b-afbe-45fd-a0b9-9c5560dbcc91" />
 
+7. Create Sheet 2 named "Summary" with formulas only:
+   — Total PO Amount: =SUM('PO Data'!H2:H101)
+   — Total Tax: =SUM('PO Data'!J2:J101)
+   — Total with Tax: =SUM('PO Data'!K2:K101)
+   — Count of POs: =COUNTA('PO Data'!A2:A101)
+   — Highest PO: =MAX('PO Data'!H2:H101)
+
+Ans. 
+
+<img width="741" height="176" alt="Screenshot 2026-04-10 195230" src="https://github.com/user-attachments/assets/8589d05e-cde7-49de-bdfc-c058428a7bd8" />
+
+8. Protect Summary sheet fully — password: sum123 — no editing at all
+
+Ans.
+
+<img width="1281" height="808" alt="Screenshot 2026-04-10 195339" src="https://github.com/user-attachments/assets/2ba0d6c3-c601-4ec9-b53c-c732a96d322d" />
+
+9. Protect Workbook — password: work123
+
+Ans.
+
+<img width="1455" height="984" alt="Screenshot 2026-04-10 195534" src="https://github.com/user-attachments/assets/66df03d0-a4de-435d-a501-b15d6b5b26b5" />
+
+10. Apply Conditional Formatting on Delivery Status: Delayed=Orange, Pending=Yellow, Delivered=Green
+
+Ans. 
+
+<img width="1087" height="2425" alt="Picture 4" src="https://github.com/user-attachments/assets/2d7ed619-4cc2-42f9-b630-ef665c6af1b7" />
+
+
+11. Set print area, landscape orientation, repeat Row 1 on every page
+
+Ans. 
+
+<img width="1562" height="876" alt="Screenshot 2026-04-10 200103" src="https://github.com/user-attachments/assets/a6eb4847-9774-47e3-8277-2cf0efa1b841" />
+
+<img width="1321" height="863" alt="Screenshot 2026-04-10 195938" src="https://github.com/user-attachments/assets/5e72c915-d47b-420e-85a0-109d53337799" />
