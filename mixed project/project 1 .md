@@ -1,4 +1,4 @@
-<img width="1716" height="2947" alt="Picture 2" src="https://github.com/user-attachments/assets/5ece5ab8-a480-4b05-af5e-20d45a72651d" /> Week 1 — Mixed Project Day 10 
+1 — Mixed Project Day 10 
  
 This project combines every topic from Week 1 into one real procurement report. All 9 skills applied on one dataset. This file goes to GitHub + screenshot goes on LinkedIn.
 
@@ -266,3 +266,86 @@ Answer :
 
 <img width="1815" height="727" alt="Screenshot 2026-04-10 204733" src="https://github.com/user-attachments/assets/f20fb5ee-b38e-4865-a1d5-5e0449ea48e8" />
 
+Step 5 — Conditional Formatting
+— Delivery Status: Delayed=Orange, Pending=Yellow, Delivered=Green
+— Payment Status: Overdue=Red, Pending=Yellow, Paid=Green
+— PO Amount above ₹1,00,000 → bold red font
+— Color Scale on PO Amount column (green=high, red=low)
+
+Answer :
+
+<img width="922" height="2905" alt="Picture 1" src="https://github.com/user-attachments/assets/84171106-8ea2-4518-a97a-76cee28fca3d" />
+
+Step 6 — Sorting
+— Multi-level sort: Region (A→Z) → Payment Status (Custom: Overdue, Pending, Paid) → PO Amount (Largest to Smallest)
+
+Answer :
+
+<img width="922" height="2905" alt="Picture2" src="https://github.com/user-attachments/assets/80fff453-d014-4680-87f0-bb19f221a88a" />
+
+Step 7 — Filter
+— Apply AutoFilter on all columns
+— Filter to show only: Region=North AND Payment Status=Overdue
+— Note how many rows appear
+— Clear filter
+
+Answer :
+
+<img width="1379" height="411" alt="Screenshot 2026-04-11 115103" src="https://github.com/user-attachments/assets/5757a0ab-9206-405a-bab8-c033bfb73e6a" />
+
+<img width="922" height="2905" alt="Picture 3" src="https://github.com/user-attachments/assets/3f67af28-b7d2-482c-bb37-47835776a35f" />
+
+
+Step 8 — Printing Essentials
+— Orientation: Landscape
+— Margins: Narrow
+— Scale: Fit width to 1 page
+— Print Titles: Row 1 repeats on every page
+— Header: Left="Vendor Procurement Report W1", Right=today's date
+— Footer: Center="Page &[Page] of &[Pages]"
+— Page breaks between each Region
+
+
+Answer :
+
+<img width="1656" height="889" alt="Screenshot 2026-04-11 120130" src="https://github.com/user-attachments/assets/321e183e-ea1a-4c19-a88c-42cf4d3b6020" />
+
+<img width="1660" height="844" alt="Screenshot 2026-04-11 120109" src="https://github.com/user-attachments/assets/26c5ed06-c1f3-45bb-ade8-ebc4f631a3d6" />
+
+<img width="1683" height="888" alt="Screenshot 2026-04-11 120150" src="https://github.com/user-attachments/assets/c19e1854-ac76-4fa9-9da3-60bacef61edc" />
+
+<img width="1662" height="831" alt="Screenshot 2026-04-11 120140" src="https://github.com/user-attachments/assets/bbfcb034-f033-4c24-bc91-0556df6f7df1" />
+
+
+Step 9 — Sheet Protection
+— Unlock only columns I (Delivery Status) and J (Payment Status)
+— Lock all other columns including formula columns K and L
+— Protect sheet — password: week1done
+— Protect Workbook — password: w1book
+
+
+Answer :
+
+<img width="1672" height="933" alt="Screenshot 2026-04-11 121219" src="https://github.com/user-attachments/assets/fc8878de-b4a5-4a42-b46f-f3830ed8b81d" />
+
+<img width="1508" height="778" alt="Screenshot 2026-04-11 121126" src="https://github.com/user-attachments/assets/4e411474-9430-4b23-b300-18b5b72638d7" />
+
+
+Sheet 2 — "Summary" Formulas only
+Create Sheet 2 named "Summary" — all values must come from formulas referencing Raw Data sheet:
+
+— Total PO Amount: =SUM('Raw Data'!H2:H121)
+— Total Tax Amount: =SUM('Raw Data'!K2:K121)
+— Total with Tax: =SUM('Raw Data'!L2:L121)
+— Average PO Amount: =AVERAGE('Raw Data'!H2:H121)
+— Highest PO: =MAX('Raw Data'!H2:H121)
+— Lowest PO: =MIN('Raw Data'!H2:H121)
+— Total Entries: =COUNTA('Raw Data'!A2:A121)
+
+Protect Summary sheet fully — password: sum123 — no editing allowed.
+
+
+Answers :
+
+
+<img width="1586" height="830" alt="Screenshot 2026-04-11 121816" src="https://github.com/user-attachments/assets/8e60ae24-04e8-4836-a46e-a020eaa831e0" />
