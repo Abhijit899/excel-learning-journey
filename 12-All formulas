@@ -1,0 +1,32 @@
+Hard Q1 — SAP Purchase Order Analysis 80 rows
+This is real SAP-style Purchase Order data from a manufacturing company. Paste it in Excel then answer all questions below using only formulas — no manual counting.
+
+Write all answers in a Summary area below your data (row 85 onwards):
+
+1. Total PO Amount across all orders: SUM
+2. Average PO Amount per order: AVERAGE
+3. Highest single PO Amount: MAX
+4. Lowest single PO Amount: MIN
+5. Total number of PO entries: COUNTA on PO ID column
+6. Count of Delayed deliveries: COUNTIF on Delivery Status
+7. Count of Pending deliveries: COUNTIF
+8. Count of North region Delayed POs: COUNTIFS (region=North AND status=Delayed)
+9. Count of West region Overdue payments: COUNTIFS (region=West AND payment=Overdue)
+10. Total PO Amount for South region: SUMIF
+11. Total PO Amount for Delivered + Paid orders: SUMIFS (delivery=Delivered AND payment=Paid)
+12. Total PO Amount for East region Delayed orders: SUMIFS
+13. Average PO Amount for North region: AVERAGEIF
+14. Average PO Amount for Delivered orders only: AVERAGEIF
+15. Average PO Amount for West region Pending orders: AVERAGEIFS
+16. GST Tax column (col J): =ROUND(H2*18%,2) → drag down for all rows
+17. Total with Tax column (col K): =H2+J2
+18. Rounded Total column (col L): =ROUNDUP(K2,0)
+19. Budget Variance column (col M) — Budget is fixed at 75000 per order: =ABS(H2-75000)
+20. Count orders where PO Amount is above average: COUNTIF using AVERAGE result
+
+
+ANSWERS :
+
+
+Q1. 1. Total PO Amount across all orders: SUM
+Ans.  
