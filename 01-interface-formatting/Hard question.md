@@ -1,4 +1,4 @@
-<img width="1424" height="1941" alt="Picture 7" src="https://github.com/user-attachments/assets/13466540-bdb6-49e7-a808-1668a7d30fc0" /><img width="965" height="1941" alt="Picture 3" src="https://github.com/user-attachments/assets/a486794e-c60e-4059-8d68-d150c077422a" />Hard Q1 — SAP Purchase Order Register 80 rows
+Hard Q1 —SAP Purchase Order Register 80 rows
 This is a Purchase Order register exported from SAP MM. Paste it in Excel and complete all tasks:
 
 Formatting Tasks:
