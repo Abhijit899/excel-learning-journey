@@ -1,0 +1,30 @@
+Hard Q1 — SAP Purchase Order Register 80 rows
+This is a Purchase Order register exported from SAP MM. Paste it in Excel and complete all tasks:
+
+Formatting Tasks:
+1. Make Row 1 (header) Bold + Background color Dark Blue + Font color White
+2. Format PO Amount column as Accounting format with ₹ symbol and 2 decimals
+3. Format Order Date column as DD-MM-YYYY
+4. Apply borders to entire data range (all cells)
+5. Wrap text in the Vendor Name column
+6. Use Format Painter to copy header formatting to a summary row you create below data
+
+Conditional Formatting Tasks:
+7. Delivery Status = Delayed → Orange fill on entire row (custom formula: =$I2="Delayed")
+8. Delivery Status = Pending → Yellow fill on entire row
+9. Delivery Status = Delivered → Green fill on entire row
+10. Payment Status = Overdue → Red font on entire row
+11. PO Amount above 2,00,000 → Bold Red font on PO Amount column
+12. Apply Color Scale on PO Amount column (Green=high, Red=low)
+13. Apply Data Bars on Qty column
+14. Top 10% rule on PO Amount — what color does Excel apply by default? Write answer below data.
+
+Fill Series Task:
+15. Add a column A called "Sr No" — use Fill Series to number all 80 rows automatically
+
+
+ANSWER :
+
+1. Make Row 1 (header) Bold + Background color Dark Blue + Font color White
+Ans. 
+
