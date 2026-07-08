@@ -1,4 +1,4 @@
-Hard Q1 — SAP Purchase Order Register 80 rows
+<img width="1424" height="1941" alt="Picture 7" src="https://github.com/user-attachments/assets/13466540-bdb6-49e7-a808-1668a7d30fc0" /><img width="965" height="1941" alt="Picture 3" src="https://github.com/user-attachments/assets/a486794e-c60e-4059-8d68-d150c077422a" />Hard Q1 — SAP Purchase Order Register 80 rows
 This is a Purchase Order register exported from SAP MM. Paste it in Excel and complete all tasks:
 
 Formatting Tasks:
@@ -103,3 +103,112 @@ Fill Series Task:
  Ans.
 
 <img width="1335" height="1945" alt="Picture 12" src="https://github.com/user-attachments/assets/0be87121-d206-4848-a800-c38b5e46942c" />
+
+---
+
+Hard Q2 — SAP Vendor Invoice Register 80 rows
+This is a Vendor Invoice Register from SAP FI module. Paste and complete all tasks:
+
+Number Format Tasks:
+1. Format Invoice Amount as Currency — ₹ symbol, comma separator, 2 decimals
+2. Format Tax Rate column as Percentage with 0 decimals
+3. Format Invoice Date as DD-MMM-YYYY (e.g. 01-Jan-2026)
+4. Add a column "Tax Amount" = Invoice Amount × Tax Rate — format as Accounting
+5. Add a column "Total Payable" = Invoice Amount + Tax Amount — format as Accounting
+6. Add a column "Rounded Total" = use ROUND formula → format as Number with 0 decimals
+
+Formatting Tasks:
+7. Bold + freeze the header row (View → Freeze Panes → Freeze Top Row)
+8. Alternate row shading — manually shade every other row light grey
+9. Right-align all number columns
+10. Center-align all header cells
+
+Conditional Formatting Tasks:
+11. Invoice Amount above 3,00,000 → Red fill
+12. Invoice Amount below 50,000 → Green fill
+13. Payment Status = Overdue → entire row Red fill
+14. Payment Status = Paid → entire row Green fill
+15. Apply Icon Set (3 arrows) on Invoice Amount column
+
+
+Number Format Tasks:
+1. Format Invoice Amount as Currency — ₹ symbol, comma separator, 2 decimals
+Ans.
+
+<img width="1669" height="2431" alt="Picture 13" src="https://github.com/user-attachments/assets/b5af0b65-4e09-4a5d-a7fc-ec05ead669d7" />
+
+
+2. Format Tax Rate column as Percentage with 0 decimals
+Ans.
+
+<img width="947" height="1941" alt="Picture 2" src="https://github.com/user-attachments/assets/85744f2b-bdb8-41ae-9eb3-4dd5c5e3d7ce" />
+
+
+3. Format Invoice Date as DD-MMM-YYYY (e.g. 01-Jan-2026)
+Ans.
+
+<img width="965" height="1941" alt="Picture 3" src="https://github.com/user-attachments/assets/01ba3e80-5f97-4b6c-a2e3-e521ac30d496" />
+
+4. Add a column "Tax Amount" = Invoice Amount × Tax Rate — format as Accounting
+Ans.
+
+<img width="1113" height="1941" alt="Picture 4" src="https://github.com/user-attachments/assets/40280ee5-7fc1-46f9-a471-18a47f9b8074" />
+
+5. Add a column "Total Payable" = Invoice Amount + Tax Amount — format as Accounting
+Ans.
+
+<img width="1266" height="1941" alt="Picture 5" src="https://github.com/user-attachments/assets/71473133-29cd-4ec9-ad47-aa1cfea3eeff" />
+
+6. Add a column "Rounded Total" = use ROUND formula → format as Number with 0 decimals
+Ans.
+
+<img width="1424" height="1941" alt="Picture 1" src="https://github.com/user-attachments/assets/2f5a9cf7-405d-4e4d-a84a-aa52c68eaadf" />
+
+Formatting Tasks:
+
+7. Bold + freeze the header row (View → Freeze Panes → Freeze Top Row)
+Ans.
+
+<img width="1424" height="1941" alt="Picture 2" src="https://github.com/user-attachments/assets/e1448445-2401-48fb-9043-8a1b13b3e7ba" />
+
+8. Alternate row shading — manually shade every other row light grey
+Ans.
+
+<img width="1424" height="1941" alt="Picture 3" src="https://github.com/user-attachments/assets/16f1f0bd-a592-48ea-8203-624aef263e70" />
+
+9. Right-align all number columns
+Ans.
+
+<img width="1424" height="1941" alt="Picture 5th" src="https://github.com/user-attachments/assets/fce0f52a-9350-4864-a4dd-a5fb0369df34" />
+
+10. Center-align all header cells
+Ans.
+
+<img width="1424" height="1941" alt="Picture 6" src="https://github.com/user-attachments/assets/9625cbed-4432-46fa-b55f-442cfe92ad82" />
+
+Conditional Formatting Tasks:
+
+11. Invoice Amount above 3,00,000 → Red fill
+Ans.
+
+<img width="1424" height="1941" alt="Picture 7" src="https://github.com/user-attachments/assets/e7513f9d-3fb1-487b-9f69-36fff74e0a26" />
+
+12. Invoice Amount below 50,000 → Green fill
+Ans.
+
+<img width="1424" height="1941" alt="Picture 8" src="https://github.com/user-attachments/assets/223b3892-04f4-46ff-acbf-1261be99344d" />
+
+13. Payment Status = Overdue → entire row Red fill
+Ans.
+
+<img width="1424" height="1941" alt="Picture 9" src="https://github.com/user-attachments/assets/d393f0ab-b419-4b9a-9007-46c449ffdaa6" />
+
+14. Payment Status = Paid → entire row Green fill
+Ans.
+
+<img width="1424" height="1941" alt="Picture 10" src="https://github.com/user-attachments/assets/803ce250-8eab-4990-92bd-20cb365c9767" />
+
+15. Apply Icon Set (3 arrows) on Invoice Amount column
+Ans.
+
+<img width="1424" height="1941" alt="Picture 11" src="https://github.com/user-attachments/assets/6bb23a01-cc4e-4257-afb7-79490d3165e9" />
