@@ -104,4 +104,18 @@ Step 6 — Filter & Copy:
 
 Ans. 
 
+<img width="1791" height="415" alt="Screenshot 2026-07-10 150038" src="https://github.com/user-attachments/assets/db92d704-e0b3-42f5-aeea-aa10c2d8ffa0" />
 
+
+<img width="1805" height="801" alt="Screenshot 2026-07-10 150219" src="https://github.com/user-attachments/assets/1fe4c009-d55b-4ca6-96ff-2fc31d68d625" />
+
+
+
+Step 7 — Clear:
+— Clear all filters in Sheet 1
+— Clear any stray formatting in empty columns
+
+Ans. 
+
+
+<img width="1546" height="2905" alt="Picture 8" src="https://github.com/user-attachments/assets/1b71b32e-d0f1-43d5-8559-5697d8a1d69c" />
