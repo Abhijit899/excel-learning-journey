@@ -85,3 +85,76 @@ ANSWERS:
 
 <img width="1873" height="1993" alt="Picture 15" src="https://github.com/user-attachments/assets/7750e90c-2426-42ca-9742-1162f3a4667b" />
 
+
+---
+
+
+Hard Q2 — SAP Invoice Register — Mixed References 80 rows
+This dataset has multiple tax rates. Use cell referencing correctly for each:
+
+Setup first:
+In a rate table area (cols K–L) type this:
+K1=Category | L1=Tax Rate
+K2=Raw Material | L2=5%
+K3=Machinery | L3=12%
+K4=Chemicals | L4=18%
+K5=IT Equipment | L5=18%
+K6=Packaging | L6=12%
+K7=Office Supplies | L7=5%
+K8=Logistics | L8=18%
+K9=Utilities | L9=5%
+
+Tasks:
+1. Convert data to table — name it "InvoiceTable"
+2. Add column "CGST 9%" = [@[Invoice Amount]]*9% using structured reference
+3. Add column "SGST 9%" = [@[Invoice Amount]]*9%
+4. Add column "Total GST" = [@CGST]+[@SGST]
+5. Add column "Total Payable" = [@[Invoice Amount]]+[@[Total GST]]
+6. In cell A85 type "Fixed Discount" and B85 = 5000
+7. Add column "After Discount" = [@[Total Payable]]-$B$85 → drag down → confirm B85 stays fixed
+8. Add column "Rounded Total" = ROUND([@[After Discount]],0)
+9. In Sheet 2 "Invoice Summary" add:
+   Total Invoice Amount: =SUM(InvoiceTable[Invoice Amount])
+   Total GST: =SUM(InvoiceTable[Total GST])
+   Total Payable: =SUM(InvoiceTable[Total Payable])
+   Average Invoice: =AVERAGE(InvoiceTable[Invoice Amount])
+10. Apply CF on Total Payable column: above 500000 = Red fill, below 200000 = Green fill (revision)
+11. Sort InvoiceTable by Total Payable largest to smallest (revision)
+12. Filter InvoiceTable — State = Maharashtra (revision)
+
+
+ANSWERS : 
+
+
+1. Convert data to table — name it "InvoiceTable"
+2. Add column "CGST 9%" = [@[Invoice Amount]]*9% using structured reference
+3. Add column "SGST 9%" = [@[Invoice Amount]]*9%
+4. Add column "Total GST" = [@CGST]+[@SGST]
+5. Add column "Total Payable" = [@[Invoice Amount]]+[@[Total GST]]
+6. In cell A85 type "Fixed Discount" and B85 = 5000
+7. Add column "After Discount" = [@[Total Payable]]-$B$85 → drag down → confirm B85 stays fixed
+8. Add column "Rounded Total" = ROUND([@[After Discount]],0)
+9. In Sheet 2 "Invoice Summary" add:
+   Total Invoice Amount: =SUM(InvoiceTable[Invoice Amount])
+   Total GST: =SUM(InvoiceTable[Total GST])
+   Total Payable: =SUM(InvoiceTable[Total Payable])
+   Average Invoice: =AVERAGE(InvoiceTable[Invoice Amount])
+10. Apply CF on Total Payable column: above 500000 = Red fill, below 200000 = Green fill (revision)
+
+Ans. 
+
+<img width="2258" height="1945" alt="Picture 16" src="https://github.com/user-attachments/assets/b2774dc9-3391-4c70-bfbc-d5e5f9da68a7" />
+
+
+11. Sort InvoiceTable by Total Payable largest to smallest (revision)
+
+Ans . 
+
+<img width="2258" height="1945" alt="Picture 17" src="https://github.com/user-attachments/assets/59e1dd25-32f7-4f81-9509-b0a4d1ceb045" />
+
+
+12. Filter InvoiceTable — State = Maharashtra (revision)
+
+Ans. 
+
+<img width="2258" height="193" alt="Picture 18" src="https://github.com/user-attachments/assets/1b46a0cd-498d-4640-a21d-00a6566ddf11" />
