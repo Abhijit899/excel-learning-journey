@@ -102,6 +102,9 @@ All values using cross-sheet references and structured references only:
 — GST Rate used: ='PO Register'!N1
 — Budget per PO: ='PO Register'!N2
 
+ANSWERS : 
 
 
+
+<img width="578" height="374" alt="Screenshot 2026-07-15 105202" src="https://github.com/user-attachments/assets/af0dfa86-40ea-4d2a-80bf-d6cee169ef9d" />
 
