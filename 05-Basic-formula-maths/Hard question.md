@@ -161,4 +161,30 @@ Summary area below data:
 ANS .
 
 
+<img width="4197" height="2109" alt="Picture 20" src="https://github.com/user-attachments/assets/c1fa5752-a9ba-4287-8eed-a214d0d6a8eb" />
 
+
+Revision tasks:
+— CF: Invoice Total above 600000 = Red fill | below 200000 = Green fill (revision)
+— Filter: State = Maharashtra → how many rows? (revision)
+— Sort by Invoice Total largest to smallest (revision)
+
+
+ANS . 
+
+— CF: Invoice Total above 600000 = Red fill | below 200000 = Green fill (revision)
+
+
+<img width="4197" height="2135" alt="Picture 21" src="https://github.com/user-attachments/assets/2eae9d06-18fa-4df8-a34f-93da596bd2b6" />
+
+
+— Filter: State = Maharashtra → how many rows? (revision)
+
+
+<img width="4197" height="215" alt="Picture 22" src="https://github.com/user-attachments/assets/0191340a-917e-4775-a29d-ea75648d054b" />
+
+
+— Sort by Invoice Total largest to smallest (revision)
+
+
+<img width="4197" height="2135" alt="Picture 23" src="https://github.com/user-attachments/assets/7dd133a2-6207-406e-8db0-9139926d9927" />
