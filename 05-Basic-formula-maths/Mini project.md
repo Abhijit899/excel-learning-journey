@@ -38,9 +38,7 @@ Overall:
 — Lowest PO: MIN | 2nd Lowest: SMALL(,2)
 — Total Entries: COUNTA
 
-Region-wise (use structured reference):
-— Type North, South, East, West in col D
-— For each region write SUM formula manually referencing PO Register sheet
+
 
 
 ANSWERS : 
@@ -84,5 +82,33 @@ Conditional Formatting (revision):
 — Total with GST above 600000 → Red fill
 
 ANS .
+
+
+<img width="4136" height="2850" alt="Picture 26" src="https://github.com/user-attachments/assets/952e2037-97e3-4c0a-9061-00d72b6777d3" />
+
+Sorting (revision):
+— Payment Status custom: Overdue → Pending → Paid
+— Then Total with GST largest to smallest
+
+ANS . 
+
+
+<img width="4136" height="2850" alt="Picture 27" src="https://github.com/user-attachments/assets/9a0b85b8-c679-49a2-897d-8110f0063e62" />
+
+
+Sheet 2 — "Financial Summary":
+Overall:
+— Total PO Amount: SUM
+— Total GST: SUM
+— Total with GST: SUM
+— Average PO: AVERAGE
+— Highest PO: MAX | 2nd Highest: LARGE(,2) | 3rd Highest: LARGE(,3)
+— Lowest PO: MIN | 2nd Lowest: SMALL(,2)
+— Total Entries: COUNTA
+
+ANS .
+
+
+<img width="619" height="437" alt="Screenshot 2026-07-18 150229" src="https://github.com/user-attachments/assets/c1a34e53-3eb1-43ec-86ac-1869494d2bbe" />
 
 
