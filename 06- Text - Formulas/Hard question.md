@@ -96,7 +96,6 @@ Col L — PO Number: =RIGHT(A2,4) — last 4 digits
 Col M — Vendor First Name: =LEFT(TRIM(D2),FIND(" ",TRIM(D2))-1)
 Col N — Vendor Clean: =PROPER(TRIM(D2))
 Col O — PO Label: =A2&" | "&PROPER(TRIM(D2))&" | "&TEXT(I2,"₹#,##0")
-Col P — Status Combined: =J2&" - "&K2 — "Delivered - Paid"
 Col Q — Category Short: =LEFT(H2,3) — first 3 letters of category
 Col R — Region Upper: =UPPER(E2)
 Col S — Amount as Text: =TEXT(I2,"₹#,##0.00")
@@ -117,4 +116,51 @@ Revision tasks:
 ANSWER : 
 
 
+
+Add these columns:
+Col K — PO Prefix: =LEFT(A2,FIND("-",A2)-1) — extract "PO" from "PO-MM-1001"
+Col L — PO Number: =RIGHT(A2,4) — last 4 digits
+Col M — Vendor First Name: =LEFT(TRIM(D2),FIND(" ",TRIM(D2))-1)
+Col N — Vendor Clean: =PROPER(TRIM(D2))
+Col O — PO Label: =A2&" | "&PROPER(TRIM(D2))&" | "&TEXT(I2,"₹#,##0")
+Col Q — Category Short: =LEFT(H2,3) — first 3 letters of category
+Col R — Region Upper: =UPPER(E2)
+Col S — Amount as Text: =TEXT(I2,"₹#,##0.00")
+Col T — PO Month: =TEXT(B2,"MMM-YYYY") — format date as "Jan-2026"
+
+ANS .
+
+
+<img width="4125" height="1925" alt="Picture 34" src="https://github.com/user-attachments/assets/cb84bf08-9c20-4540-9378-33846e49d9c7" />
+
+
+Summary below data:
+— Count POs with "North" in Region: =COUNTIF(E2:E81,"North")
+— Total PO Amount: =SUM(I2:I81) (revision)
+— Average PO Amount: =AVERAGE(I2:I81) (revision)
+— 2nd Highest PO: =LARGE(I2:I81,2) (revision)
+
+
+ANS .
+
+
+<img width="4125" height="1925" alt="Picture 34" src="https://github.com/user-attachments/assets/4a241617-7e5d-4a34-a0c7-fb41473eb174" />
+
+
+Revision tasks:
+— CF: Delivery=Delayed → Orange row (revision)
+— Sort: Region A to Z then PO Amount largest to smallest (revision)
+— Convert to table named "POTextTable" (revision)
+
+
+ANS .
+
+
+
+<img width="1878" height="928" alt="Screenshot 2026-07-21 203504" src="https://github.com/user-attachments/assets/7083021f-b6be-4208-b487-939050b52287" />
+
+
+
+
+<img width="4125" height="1925" alt="Picture 34" src="https://github.com/user-attachments/assets/ead10f87-dd53-4e76-b259-ff6fb7cea419" />
 
