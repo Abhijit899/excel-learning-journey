@@ -21,6 +21,7 @@ Text to Columns & Flash Fill:
 2. Undo that (Ctrl+Z) to restore the combined column
 3. In L2, manually type just "Tata Steel" (the Vendor Name part only, copied from C2) → select L2:L221 → press Ctrl+E (Flash Fill) → confirm it extracts every Vendor Name automatically, without Text to Columns
 4. In M2, manually type just "V-001" (the Vendor ID part only) → select M2:M221 → press Ctrl+E → confirm it extracts every Vendor ID
+
 Conditional Formatting:
 5. Select PO Amount column (H2:H221) → Highlight Cells Rules → Greater Than → 200000 → Light Red Fill
 6. Select Qty column → Top/Bottom Rules → Top 10 Items → Green Fill
@@ -41,8 +42,22 @@ Conditional Formatting:
 ANSWER : 
 
 
+<img width="1373" height="5307" alt="Picture 27" src="https://github.com/user-attachments/assets/07dfbb29-4220-42c9-a77f-6c3948277851" />
 
 
+<img width="1373" height="5307" alt="Picture 28" src="https://github.com/user-attachments/assets/672b7638-a4d4-45b4-9b29-98705c87ffe5" />
 
 
+<img width="1373" height="5307" alt="Picture 29" src="https://github.com/user-attachments/assets/2483e289-5343-4fde-8cf3-8d9e3373abdd" />
 
+
+<img width="1642" height="5307" alt="Picture 30" src="https://github.com/user-attachments/assets/40100c81-f33e-47e4-ba14-7a082c641b8c" />
+
+
+<img width="1642" height="5331" alt="Picture 31" src="https://github.com/user-attachments/assets/6a95641a-4c79-4842-b3c9-a4fa17a99a8e" />
+
+
+<img width="1642" height="1611" alt="Picture 32" src="https://github.com/user-attachments/assets/0f84770a-085d-4059-bb35-a4cecf9bbf9d" />
+
+
+<img width="1829" height="927" alt="Screenshot 2026-08-21 193730" src="https://github.com/user-attachments/assets/f6b9cbe0-00fb-449b-9313-5d6b52283c09" />
