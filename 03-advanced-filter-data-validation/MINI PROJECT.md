@@ -22,4 +22,31 @@ Scenario: Your manager at Mahindra wants a fresh intake sheet where data entry m
 ANSWER :
 
 
+<img width="6069" height="6027" alt="Picture 23" src="https://github.com/user-attachments/assets/7e9fa2c1-5b28-41c7-949f-ee19fc8408d6" />
 
+
+<img width="2369" height="6027" alt="Picture 24" src="https://github.com/user-attachments/assets/3bf28037-0909-4e55-9ba9-be000f27ab68" />
+
+
+<img width="3409" height="6027" alt="Picture 25" src="https://github.com/user-attachments/assets/a9659f89-5abf-449c-89a6-9af5cb5a5ee4" />
+
+
+<img width="1138" height="6027" alt="Picture 26" src="https://github.com/user-attachments/assets/c614e5d3-987c-48c3-b809-0540b9099741" />
+
+
+<img width="1273" height="706" alt="Screenshot 2026-08-21 170759" src="https://github.com/user-attachments/assets/17dca5c1-4f91-4b9f-920b-b152e480686f" />
+
+
+<img width="1732" height="907" alt="Screenshot 2026-08-21 170606" src="https://github.com/user-attachments/assets/ef04ea0f-e0ed-4787-a702-aa78b3b9c3a2" />
+
+
+<img width="1804" height="899" alt="Screenshot 2026-08-21 170537" src="https://github.com/user-attachments/assets/5c06b639-a6bb-4b44-976f-cddab5b91a23" />
+
+
+<img width="1919" height="953" alt="Screenshot 2026-08-21 170421" src="https://github.com/user-attachments/assets/6186231b-3a3d-472d-bf34-ab448d1ce515" />
+
+
+<img width="1834" height="972" alt="Screenshot 2026-08-21 154658" src="https://github.com/user-attachments/assets/327c88d7-3a9b-4523-9264-eccbfc48e5a4" />
+
+
+<img width="1892" height="1009" alt="Screenshot 2026-08-21 154651" src="https://github.com/user-attachments/assets/f4f77fcb-eb9a-4666-a9a1-004335685668" />
