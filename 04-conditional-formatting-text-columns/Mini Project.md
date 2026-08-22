@@ -26,10 +26,16 @@ ANSWER :
 <img width="1410" height="6027" alt="Picture 33" src="https://github.com/user-attachments/assets/1f8615f0-56c1-4167-ab90-3dcc91eb86eb" />
 
 
+
+
 <img width="1410" height="6027" alt="Picture 34" src="https://github.com/user-attachments/assets/4230a6ce-9edd-4be2-8176-76aee21c3cea" />
 
 
+
+
 <img width="1410" height="6027" alt="Picture 35" src="https://github.com/user-attachments/assets/9dc9a834-32da-44fe-8bc5-389b07cb2bee" />
+
+
 
 
 <img width="1802" height="998" alt="Screenshot 2026-08-21 210740" src="https://github.com/user-attachments/assets/22eed810-8063-42e5-91f4-5a42151cbd5a" />
