@@ -10,7 +10,6 @@ Use IF + AND — =IF(AND(PO Amount>200000,Delivery Status="Delayed"),"Priority",
 
 
 
-
 ---
 
 
