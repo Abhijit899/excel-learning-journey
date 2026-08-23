@@ -23,3 +23,15 @@ Scenario: Your manager at Mahindra wants every PO automatically flagged the mome
 ANSWER : 
 
 
+
+<img width="1562" height="6277" alt="Picture 48" src="https://github.com/user-attachments/assets/d042d7d7-bec9-4ad2-a22d-6bf830be20ed" />
+
+
+<img width="1647" height="6277" alt="Picture 49" src="https://github.com/user-attachments/assets/0f37d04a-3dcb-470d-abcb-53d5a4f4404d" />
+
+
+<img width="1916" height="994" alt="Screenshot 2026-08-23 103846" src="https://github.com/user-attachments/assets/2eb8dac3-78a5-43fa-9c2e-3db6a613140d" />
+
+
+<img width="1652" height="726" alt="Screenshot 2026-08-23 110848" src="https://github.com/user-attachments/assets/32342884-f115-4294-b5b4-13b4195d5b71" />
+
