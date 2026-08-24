@@ -39,3 +39,5 @@ Paste this data. Complete every task below in order, starting from column J:
 ANSWER : 
 
 
+<img width="1925" height="5527" alt="Picture 1" src="https://github.com/user-attachments/assets/ebd19664-cea7-4d97-a286-554e140dae51" />
+
