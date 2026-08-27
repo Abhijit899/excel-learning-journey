@@ -6,7 +6,7 @@ Which text function combo extracts the number, and which single date function co
 ANSWER : 
 
 
-
+RIGHT & NETWORKDAYS
 
 
 
