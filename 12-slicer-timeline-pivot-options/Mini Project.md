@@ -21,13 +21,17 @@ ANSWERS :
 <img width="1525" height="757" alt="Screenshot 2026-08-28 161556" src="https://github.com/user-attachments/assets/13281b21-f5a5-4d70-b6f6-75c1780b347b" />
 
 
+
 <img width="1522" height="710" alt="Screenshot 2026-08-28 163628" src="https://github.com/user-attachments/assets/b5de7881-d348-426d-9c34-a464815b4a56" />
+
 
 
 <img width="1527" height="682" alt="Screenshot 2026-08-28 163754" src="https://github.com/user-attachments/assets/eace26ec-374c-432a-ae1f-b5b67d4a6ebc" />
 
 
+
 <img width="1522" height="640" alt="Screenshot 2026-08-28 163905" src="https://github.com/user-attachments/assets/305ab8b5-fc06-4b6b-9a01-ed65e06bae5d" />
+
 
 
 <img width="1526" height="730" alt="Screenshot 2026-08-28 164113" src="https://github.com/user-attachments/assets/ecfd5385-0a0c-4342-8911-db8e9afeb0e0" />
