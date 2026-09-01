@@ -20,4 +20,4 @@ Raw SAP exports arrive messy: blank fields, typos, duplicate entries, missing ve
 Navigation & shortcuts · Data validation · Advanced Filter · Conditional Formatting · Text/Data cleaning · IF/AND/OR/Nested IF · SUMIFS/COUNTIFS · VLOOKUP/HLOOKUP/XLOOKUP/INDEX+MATCH · Pivot Tables & Charts · Slicers & Timelines · Dynamic Arrays · Financial Functions · Macros · Print formatting
 
 ## Author
-Abhijit singh  — Self-taught, 15-day intensive Excel curriculum, August 2026
+Abhijit899  — Self-taught, 15-day intensive Excel curriculum, August 2026
