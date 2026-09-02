@@ -8,7 +8,7 @@ ANSWERS :
 
 
 
-
+MARCO 
 
 
 
@@ -175,3 +175,23 @@ ANS .
 
 <img width="1527" height="682" alt="Screenshot 2026-09-01 212118" src="https://github.com/user-attachments/assets/2cd01aa2-e468-4ee4-b454-710a030e11b0" />
 
+
+
+Section E — Duplicates & Paste Special Day 5
+1Use =UNIQUE(A2:A321) and =COUNTA(UNIQUE(A2:A321)) to preview distinct PO IDs before deleting anything.
+2Run Data → Remove Duplicates on PO ID → confirm it matches your UNIQUE count (should remove 10).
+3Type 1.08 → copy → Paste Special → Multiply on PO Amount for an 8% bulk price revision.
+
+
+ANS . 
+
+
+<img width="1535" height="670" alt="Screenshot 2026-09-02 203238" src="https://github.com/user-attachments/assets/4cd68c41-1a38-4d38-beb1-42655b09e14d" />
+
+
+
+<img width="1258" height="610" alt="Screenshot 2026-09-02 203424" src="https://github.com/user-attachments/assets/0a8e0c1f-cb91-428a-a789-3e7eb0a61d30" />
+
+
+
+<img width="909" height="15106" alt="Picture 2" src="https://github.com/user-attachments/assets/cad22d73-c1a9-4255-b1b9-4ccce13bb51a" />
