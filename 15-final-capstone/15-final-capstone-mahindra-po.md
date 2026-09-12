@@ -195,3 +195,18 @@ ANS .
 
 
 <img width="909" height="15106" alt="Picture 2" src="https://github.com/user-attachments/assets/cad22d73-c1a9-4255-b1b9-4ccce13bb51a" />
+
+
+
+
+Section F — IF, AND, OR, Nested IF Day 6-7
+1=IF(AND(H2>150000,I2="Delayed"),"🔴 Critical",IF(OR(I2="Delayed",I2="Pending"),"🟡 Watch","🟢 OK")) in a helper column.
+2=IF(H2<50000,"Low",IF(H2<=200000,"Medium","High")) for a 3-tier amount classification.
+3Apply Conditional Formatting: Text Contains "Critical" → Red Fill on that column.
+
+
+ANS .
+
+
+<img width="1262" height="7800" alt="Picture 1" src="https://github.com/user-attachments/assets/caeab38f-da45-458b-9091-50e03d06d508" />
+
